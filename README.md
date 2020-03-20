@@ -4,7 +4,7 @@
 
 | item | explanation |
 | :--: | :---------: |
-| [Cook](./Cook/README.md) | Cook Book |
+| [Recipes](./Recipes/README.md) | Cook Book |
 
 
 
